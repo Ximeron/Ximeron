@@ -43,11 +43,9 @@
 
 ## 📈 Статистика GitHub
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ximeron&show_icons=true&theme=radical&hide_border=true" />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximeron)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+
 
 ---
 
