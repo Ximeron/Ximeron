@@ -45,7 +45,7 @@
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ximeron&show_icons=true&theme=radical&hide_border=true" />
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=Ximeron&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=radical)
 
 </p>
 
