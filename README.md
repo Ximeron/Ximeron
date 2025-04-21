@@ -1,13 +1,13 @@
-<h1 align="center">Привет, я [Твоё Имя] 👋</h1>
+<h1 align="center">Привет, я [Симанов Иван] 👋</h1>
 
 <p align="center">
   🎓 Студент-практикант | 💻 Будущий разработчик | 🌱 Люблю учиться через практику
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твое_имя_на_github&label=Просмотры+профиля&color=blueviolet&style=flat" alt="GitHub Profile Views" />
-  <a href="https://github.com/твое_имя_на_github?tab=followers">
-    <img src="https://img.shields.io/github/followers/твое_имя_на_github?label=Подписчики&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Ximeron&label=Просмотры+профиля&color=blueviolet&style=flat" alt="GitHub Profile Views" />
+  <a href="https://github.com/Ximeron?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ximeron?label=Подписчики&style=social" />
   </a>
 </p>
 
@@ -15,8 +15,8 @@
 
 ## 🧑‍💻 Обо мне
 
-- 🏫 Учусь в **[Название вуза]**
-- 🔬 Увлекаюсь web-разработкой, алгоритмами и разработкой игр
+- 🏫 Учусь в **[Сибирский федеральный университет]**
+- 🔬 Увлекаюсь web-разработкой, алгоритмами
 - 📚 Сейчас изучаю: TypeScript, DevOps, паттерны проектирования
 - 🌐 Открыт к сотрудничеству и стажировкам
 - ⚡ Весёлый факт: могу писать код с кофе в одной руке и стикерами в другой ☕📋
@@ -32,8 +32,6 @@
 
 ### Веб и базы данных
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Инструменты и другое
@@ -60,18 +58,16 @@
 ## 📈 Статистика GitHub
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=твое_имя_на_github&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=твое_имя_на_github&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ximeron&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ximeron&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Контакты
 
-- ✉️ Email: [твой.email@example.com]
-- 💬 Telegram: [@твой_ник]
-- 🌐 LinkedIn: [ссылка] *(если есть)*
-
+- ✉️ Email: [ximeron.274@gmail.com]
+- 💬 Telegram: [@x1mer0n]
 ---
 
 > _"Каждый день — это возможность стать на шаг лучше, чем вчера."_
