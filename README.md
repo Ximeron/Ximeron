@@ -3,14 +3,6 @@
 <p align="center">
   🎓 Студент-практикант | 💻 Будущий разработчик | 🌱 Люблю учиться через практику
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ximeron&label=Просмотры+профиля&color=blueviolet&style=flat" alt="GitHub Profile Views" />
-  <a href="https://github.com/Ximeron?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ximeron?label=Подписчики&style=social" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 Обо мне
